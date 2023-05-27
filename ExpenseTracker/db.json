@@ -1,0 +1,110 @@
+{
+    "accessKey": "26237108-96f1-11ed-ac1f-8ba26f895a95",
+    "secretKey": "b46a4123-25e1-4a73-ac17-74fb5c43589f",
+    "item_type": [
+        "Food",
+        "beverages",
+        "Clothing",
+        "Stationaries",
+        "Wearable",
+        "Electronic Accessories"
+    ],
+    "users": [
+        {
+            "name": "Aditya Raj",
+            "email": "adityaraj@gmail.com",
+            "password": "1234abcd",
+            "username": "aditya_13",
+            "purchases": {
+                "2023-01-18": [
+                    {
+                        "item_name": "shirt",
+                        "item_type": "cloth",
+                        "item_price": "1600",
+                        "purchase_time": "2023-01-18 12:28:44.780174+05:30"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "RAj",
+            "email": "raj1123@gmail.com",
+            "password": "1234abcd",
+            "username": "raj123",
+            "purchases": {
+                "2023-01-18": [
+                    {
+                        "item_name": "shirt",
+                        "item_type": "cloth",
+                        "item_price": "1600",
+                        "purchase_time": "2023-01-18 12:30:45.058107+05:30"
+                    },
+                    {
+                        "item_name": "shirt",
+                        "item_type": "cloth",
+                        "item_price": "1600",
+                        "purchase_time": "2023-01-18 12:33:50.742206+05:30"
+                    },
+                    {
+                        "item_name": "shirt",
+                        "item_type": "cloth",
+                        "item_price": "1600",
+                        "purchase_time": "2023-01-18 12:34:11.443990+05:30"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "RAj",
+            "email": "raj112@gmail.com",
+            "password": "1234abcd",
+            "username": "raj123",
+            "purchases": {
+                "2023-01-19": [
+                    {
+                        "item_name": "shirt",
+                        "item_type": "cloth",
+                        "item_price": "1600",
+                        "purchase_time": "2023-01-18 12:36:46.858017+05:30"
+                    },
+                    {
+                        "item_name": "shirt",
+                        "item_type": "cloth",
+                        "item_price": "1600",
+                        "purchase_time": "2023-01-18 12:37:20.693845+05:30"
+                    },
+                    {
+                        "item_name": "shirt",
+                        "item_type": "cloth",
+                        "item_price": "1600",
+                        "purchase_time": "2023-01-18 12:38:54.081822+05:30"
+                    },
+                    {
+                        "item_name": "shirt",
+                        "item_type": "cloth",
+                        "item_price": "1600",
+                        "purchase_time": "2023-01-18 12:39:25.025101+05:30"
+                    },
+                    {
+                        "item_name": "shirt",
+                        "item_type": "cloth",
+                        "item_price": "1600",
+                        "purchase_time": "2023-01-18 12:39:44.680359+05:30"
+                    },
+                    {
+                        "item_name": "shirt",
+                        "item_type": "cloth",
+                        "item_price": "1600",
+                        "purchase_time": "2023-01-18 14:51:33.426597+05:30"
+                    },
+                    {
+                        "item_name": "shirt",
+                        "item_type": "cloth",
+                        "item_price": "1600",
+                        "purchase_time": "2023-01-18 14:51:57.728849+05:30"
+                    }
+                ]
+            }
+        }
+    ]
+}
